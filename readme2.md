@@ -18,9 +18,7 @@ Unlike traditional methods that rely on limited data types and simpler algorithm
 
 ## Results
 
-In this study, we propose a new method for driver drowsiness detection combining LLM and deep learning techniques. Our approach utilizes behavioral information, including facial expression and eye movement, to precisely measure drowsiness.
-
-Unlike existing approaches that tend to rely on limited types of data and simple algorithms, our system utilizes the strengths of deep learning for feature extraction coupled with the contextual understanding of LLM. This integration improves accuracy and reliability where previous methods suffer from variability of driving conditions and fatigue indicators.
+Unlike existing approaches that tend to rely on limited types of data and simple algorithms, this system utilizes the strengths of deep learning for feature extraction coupled with the contextual understanding of LLM. This integration improves accuracy and reliability where previous methods suffer from variability of driving conditions and fatigue indicators.
 
 **Performance Metrics:**
 
@@ -29,4 +27,4 @@ Unlike existing approaches that tend to rely on limited types of data and simple
 - **Average Recall:** 99%
 - **Average F1 Score:** 99%
 
-These results demonstrate the effectiveness and robustness of our system in accurately detecting driver drowsiness under various conditions.
+These results demonstrate the effectiveness and robustness of the system in accurately detecting driver drowsiness under various conditions.
